@@ -1,3 +1,7 @@
+I've build a skin disease detection platform which can predict serious skin disease like skin cancer, melanoma and other life threatening skin disease at a very early stage. It uses feature extraction, image resizing, HoG formation, model training and image processing techniques all integrated with algorithms. User need to login to his ID and click a photo of the infected area of the skin, upload the image and user will be able to see which disease they are suffering from at that moment with the severity of the disease also being mention in the description. It has an accuracy above 70%.
+
+My skin disease works on three diseases which are mainly: Melanoma (cancer in melanin cells), Nevus (mole), Basal Cell Carcinoma (cancer in basal cell).
+
 Step 1. Open vscode using command prompt : code .
 
 Step 2. Run manage.py
